@@ -42,9 +42,9 @@ const About = () => {
               <img src={linkedin} height="100%" width="100%" alt="" />
             </Link>
           </div>
-          <a className={classes.CV} href={ElvisCV} download="Resume">
+          {/* <a className={classes.CV} href={ElvisCV} download="Resume">
             Download CV
-          </a>
+          </a> */}
         </div>
       </div>
     </div>
